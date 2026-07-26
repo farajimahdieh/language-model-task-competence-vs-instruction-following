@@ -1,5 +1,5 @@
 # Task Competence Is Not Instruction Following
-
+https://arxiv.org/abs/2607.19608
 **Evaluating Instruction-Conflicting Behavior in Small Language Models**
 
 This repository contains the code and evaluation pipeline for the paper *"Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models"* by Mahdiyeh Farajidizaji and Vatsal Raina.
