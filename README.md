@@ -113,10 +113,14 @@ export DEEPINFRA_API_TOKEN=your_token_here
 If you use this code or the findings in your work, please cite:
 
 ```bibtex
-@article{farajidizaji2026taskcompetence,
-  title   = {Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models},
-  author  = {Farajidizaji, Mahdiyeh and Raina, Vatsal},
-  year    = {2026}
+@misc{farajidizaji2026taskcompetenceinstructionfollowing,
+      title={Task Competence Is Not Instruction Following: Evaluating Instruction-Conflicting Behavior in Small Language Models}, 
+      author={Mahdiyeh Farajidizaji and Vatsal Raina},
+      year={2026},
+      eprint={2607.19608},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2607.19608}, 
 }
 ```
 
